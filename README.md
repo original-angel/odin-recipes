@@ -1,0 +1,1 @@
+This is a recipe website project, where I practice my knowledge of basic HTML elements, links and images, and making a clean file system for a website.
